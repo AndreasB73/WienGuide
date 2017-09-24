@@ -1,0 +1,90 @@
+
+/* Class = "IBUITableViewSection"; headerTitle = "Verkehr"; ObjectID = "07C-RB-TCJ"; */
+"07C-RB-TCJ.headerTitle" = "Verkehr";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Internet"; ObjectID = "4jH-Jc-pce"; */
+"4jH-Jc-pce.headerTitle" = "Internet";
+
+/* Class = "IBUILabel"; text = "WC-Anlagen"; ObjectID = "6HK-MZ-ZWr"; */
+"6HK-MZ-ZWr.text" = "WC-Anlagen";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Spiel & Sport"; ObjectID = "AQk-Qb-kX6"; */
+"AQk-Qb-kX6.headerTitle" = "Spiel & Sport";
+
+/* Class = "IBUILabel"; text = "Trinkbrunnen"; ObjectID = "At4-2n-Zqm"; */
+"At4-2n-Zqm.text" = "Trinkbrunnen";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Kultur"; ObjectID = "BSa-NF-2oU"; */
+"BSa-NF-2oU.headerTitle" = "Kultur";
+
+/* Class = "IBUITextView"; text = "WienGuide 1.0 ist eine App, die diverse Einrichtungen aus verschiedensten Bereichen, wie Kultur, Spiel, Hygiene, in Wien übersichtlich in einer Map angezeigt.\n\nZu einigen Standorten gibt es auch Detail-Informationen bzw. Hyperlinks, die in Safari geöffnet werden können.\n\nDie Daten werden von folgenden Bereichen zur Verfügung gestellt:\nStadt Wien - data.wien.gv.at\nFreewave - www.freewave.at"; ObjectID = "GL9-hW-m4U"; */
+"GL9-hW-m4U.text" = "WienGuide 1.0 ist eine App, die diverse Einrichtungen aus verschiedensten Bereichen, wie Kultur, Spiel, Hygiene, in Wien übersichtlich in einer Map angezeigt.\n\nZu einigen Standorten gibt es auch Detail-Informationen bzw. Hyperlinks, die in Safari geöffnet werden können.\n\nDie Daten werden von folgenden Bereichen zur Verfügung gestellt:\nStadt Wien - data.wien.gv.at\nFreewave - www.freewave.at";
+
+/* Class = "IBUILabel"; text = "Defibrillator"; ObjectID = "H4z-UX-Xn5"; */
+"H4z-UX-Xn5.text" = "Defibrillator";
+
+/* Class = "IBUIBarButtonItem"; title = "Info"; ObjectID = "Hoy-Xv-dhx"; */
+"Hoy-Xv-dhx.title" = "Info";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "KkG-Mh-ve0"; */
+"KkG-Mh-ve0.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Citybikes"; ObjectID = "Qy4-qJ-jrY"; */
+"Qy4-qJ-jrY.text" = "Citybikes";
+
+/* Class = "IBUILabel"; text = "Badestellen"; ObjectID = "Rkv-Gt-cXy"; */
+"Rkv-Gt-cXy.text" = "Badestellen";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "Ycg-QG-Auj"; */
+"Ycg-QG-Auj.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Burgen & Schlösser"; ObjectID = "aAK-ti-ShS"; */
+"aAK-ti-ShS.text" = "Burgen & Schlösser";
+
+/* Class = "IBUINavigationItem"; title = "WienGuide"; ObjectID = "b5h-b2-70g"; */
+"b5h-b2-70g.title" = "WienGuide";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Gesundheit & Hygiene"; ObjectID = "cNk-dx-FBT"; */
+"cNk-dx-FBT.headerTitle" = "Gesundheit & Hygiene";
+
+/* Class = "IBUILabel"; text = "Freewave"; ObjectID = "del-3Y-WF8"; */
+"del-3Y-WF8.text" = "Freewave";
+
+/* Class = "IBUINavigationItem"; title = "Map"; ObjectID = "hgg-gP-nRC"; */
+"hgg-gP-nRC.title" = "Map";
+
+/* Class = "IBUISegmentedControl"; hvQ-S8-16w.segmentTitles[0] = "Karte"; ObjectID = "hvQ-S8-16w"; */
+"hvQ-S8-16w.segmentTitles[0]" = "Karte";
+
+/* Class = "IBUISegmentedControl"; hvQ-S8-16w.segmentTitles[1] = "Satellit"; ObjectID = "hvQ-S8-16w"; */
+"hvQ-S8-16w.segmentTitles[1]" = "Satellit";
+
+/* Class = "IBUISegmentedControl"; hvQ-S8-16w.segmentTitles[2] = "Hybrid"; ObjectID = "hvQ-S8-16w"; */
+"hvQ-S8-16w.segmentTitles[2]" = "Hybrid";
+
+/* Class = "IBUISegmentedControl"; hvQ-S8-16w.segmentTitles[3] = "Liste"; ObjectID = "hvQ-S8-16w"; */
+"hvQ-S8-16w.segmentTitles[3]" = "Liste";
+
+/* Class = "IBUILabel"; text = "Museen"; ObjectID = "llu-jw-nXP"; */
+"llu-jw-nXP.text" = "Museen";
+
+/* Class = "IBUILabel"; text = "FKK"; ObjectID = "ntE-Hn-hzO"; */
+"ntE-Hn-hzO.text" = "FKK";
+
+/* Class = "IBUILabel"; text = "Spielplätze"; ObjectID = "ozC-1m-22w"; */
+"ozC-1m-22w.text" = "Spielplätze";
+
+/* Class = "IBUILabel"; text = "Sportstätten"; ObjectID = "p6F-cB-ucw"; */
+"p6F-cB-ucw.text" = "Sportstätten";
+
+/* Class = "IBUILabel"; text = "U-Bahn"; ObjectID = "w4h-zK-gY1"; */
+"w4h-zK-gY1.text" = "U-Bahn";
+
+/* Class = "IBUILabel"; text = "Schwimmbäder"; ObjectID = "wGg-ih-cx9"; */
+"wGg-ih-cx9.text" = "Schwimmbäder";
+
+/* Class = "IBUINavigationItem"; title = "Info"; ObjectID = "wIH-Rj-dq8"; */
+"wIH-Rj-dq8.title" = "Info";
+
+/* Class = "IBUILabel"; text = "Multimedia-Stationen"; ObjectID = "yZJ-tV-rFR"; */
+"yZJ-tV-rFR.text" = "Multimedia-Stationen";

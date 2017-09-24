@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Trinkbrunnen
+
+  Created by Andreas Bachmaier on 15.01.13.
+
+*/
+
+"Trinkbrunnen" = "Trinkbrunnen";
+"Badestellen" = "Badestellen";
+"Schwimmbäder" = "Schwimmbäder";
+"FKK" = "FKK";
+"WC" = "WC";
+"Defibrillator" = "Defibrillator";
+"Freewave" = "Freewave";
+"Multimedia-Stationen" = "Multimedia-Stationen";
+"Spielplätze" = "Spielplätze";
+"Sportstätten" = "Sportstätten";
+"Citybikes" = "Citybikes";
+"Burgen & Schlösser" = "Burgen & Schlösser";
+"Museen" = "Museen";
+"U-Bahn Stationen" = "U-Bahn Stationen";
+"Taxistandplätze" = "Taxistandplätze";
+"Laden..." = "Laden ...";
+"Menü" = "Menü";
+"Karte" = "Karte";
+"Satellit" = "Satellit";
+"Hybrid" = "Hybrid";
+"Liste" = "Liste";
+"Gesundheit & Hygiene" = "Gesundheit & Hygiene";
+"Internet" = "Internet";
+"Spiel & Sport" = "Spiel & Sport";
+"Kultur" = "Kultur";
+"Verkehr" = "Verkehr";
+"I like" = "Mir gefällt";
+"in Vienna" = "in Wien";
+"Sent from WienGuide" = "Gesendet von WienGuide (Erhältlich im AppStore: http://appstore.com/wienguide/).";
+"Adventmärkte" = "Adventmärkte";
+"Freizeitparks" = "Freizeitparks";
+"Tierparks" = "Tierparks";
+"Sonstiges" = "Sonstiges";
+"Foto" = "Foto";
+"Fotos" = "Fotos";
+"Ausflüge" = "Ausflüge";
+"Gay" = "Gay Lokale";
+"Haltestellen" = "Haltestellen";
+"Anzahl Annotations" = "Anzahl Orte: %zd";

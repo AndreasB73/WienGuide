@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BB804004DA5D1697783B068E4C06DABD181E6BFC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B471BED9AD1BCDB1D65AE8593D137A88BB290F20" : 0,
+    "BB804004DA5D1697783B068E4C06DABD181E6BFC" : 0,
+    "B33D006D34BEE391C44D81614F65AD38BCB47EDE" : 0,
+    "15D30A30FB95481690A48C13833501D4046A796A" : 0,
+    "BF2FE30DD30E807A424B26D63A15FEB4A29593EB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "436EF364-D2D9-4B8C-8FCC-2F1F7F440274",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B471BED9AD1BCDB1D65AE8593D137A88BB290F20" : "iOS-Frameworks\/Objective-C-HMTL-Parser\/",
+    "BB804004DA5D1697783B068E4C06DABD181E6BFC" : "iOS-Projekte\/",
+    "B33D006D34BEE391C44D81614F65AD38BCB47EDE" : "iOS-Frameworks\/OCMapView\/",
+    "15D30A30FB95481690A48C13833501D4046A796A" : "iOS-Frameworks\/MMDrawerController-Storyboard\/",
+    "BF2FE30DD30E807A424B26D63A15FEB4A29593EB" : "iOS-Frameworks\/MMDrawerController\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Trinkbrunnen",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Trinkbrunnen\/Trinkbrunnen.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TomSwift\/MMDrawerController-Storyboard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "15D30A30FB95481690A48C13833501D4046A796A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yinkou\/OCMapView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B33D006D34BEE391C44D81614F65AD38BCB47EDE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zootreeves\/Objective-C-HMTL-Parser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B471BED9AD1BCDB1D65AE8593D137A88BB290F20"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/Andreas%2520Bachmaier@srv.bachmaier.cc\/git\/iOS-Projekte.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB804004DA5D1697783B068E4C06DABD181E6BFC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mutualmobile\/MMDrawerController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BF2FE30DD30E807A424B26D63A15FEB4A29593EB"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TBSecondViewController mapView:regionDidChangeAnimated:]:TBSecondViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TBSecondViewController mapView:viewForAnnotation:]:TBSecondViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "clusterAnnotation.minCoordinate">
+            </PersistentString>
+            <PersistentString
+               value = "self.map.region">
+            </PersistentString>
+            <PersistentString
+               value = "clusterAnnotation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
